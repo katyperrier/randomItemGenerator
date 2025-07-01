@@ -15,3 +15,5 @@ substance = ["Fire","Ice","Lightning","Magic","Song"]
 selectedAdjective = adjective[r.randint(0,4)]
 
 print(selectedAdjective)
+
+#test test tests
